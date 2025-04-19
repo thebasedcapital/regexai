@@ -6,6 +6,12 @@ This is a simple desktop application built with Python and Tkinter that provides
 
 It also includes an integrated AI assistant sidebar (powered by OpenRouter) that can help generate regex patterns or answer questions based on natural language input.
 
+## Downloads
+
+You can download the pre-built application for macOS directly:
+
+*   **macOS (.dmg):** [] 
+
 ## Features
 
 *   **Text Editor:** Load, edit, and save plain text files.
