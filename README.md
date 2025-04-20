@@ -89,10 +89,10 @@ After building the `.app` file with `pyinstaller`:
 
 ## Downloads
 
-*(Optional: Add links here if you host pre-built binaries)*
+Pre-built binaries can be found on the [Releases page](https://github.com/thebasedcapital/regexai/releases/).
 
-*   **macOS (.dmg):** [Link to your DMG file]
-*   **Windows (.exe):** [Link to your EXE file]
+*   **macOS (.dmg):** Available on the [Releases page](https://github.com/thebasedcapital/regexai/releases/).
+*   **Windows (.exe):** Currently, Windows users need to build the application from source using PyInstaller on a Windows machine (see "Building the Application" section).
 
 ## Contributing
 
