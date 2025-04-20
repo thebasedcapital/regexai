@@ -45,8 +45,20 @@ It includes an integrated AI assistant sidebar (powered by OpenRouter) that can 
     ```
 4.  (Optional) To use the AI Assistant:
     *   Toggle the "AI Pane" button or use the "View" -> "Show AI Sidebar" menu item.
-    *   Enter your OpenRouter API key in the "OpenRouter API Key" field in the sidebar. The key will be stored locally in `~/.config/regex_editor/config.json`.
+    *   Enter your OpenRouter API key in the "OpenRouter API Key" field in the sidebar. See the section below on how to get one. The key will be stored locally in `~/.config/regex_editor/config.json`.
     *   Type your request into the "Ask the AI Assistant" box and click "Ask AI".
+
+### Getting an OpenRouter API Key
+
+The AI Assistant requires an API key from OpenRouter.ai.
+
+1.  Go to [https://openrouter.ai/](https://openrouter.ai/).
+2.  Sign up for a free account or log in if you already have one.
+3.  Click on your account icon/name in the top right corner and select "Keys".
+4.  Click the "+ Create Key" button.
+5.  Give your key a name (e.g., "RegexEditor") and click "Create".
+6.  **Important:** Copy the generated API key immediately. You won't be able to see it again after closing the dialog.
+7.  Paste this key into the "OpenRouter API Key" field in the Regex Editor's AI sidebar.
 
 ## Building the Application (Example for macOS)
 
